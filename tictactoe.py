@@ -30,8 +30,6 @@ tictactoe = (
 i = range(1,2)
 sContinue = input("Would you like to play? (y/n): ")
 
-if sContinue == n:
-    pass
 
 # if sContinue == n:
     
